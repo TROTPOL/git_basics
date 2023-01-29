@@ -23,5 +23,7 @@ git add readme.md
 git commit -m "step 2 master"
 
 git merge first_brance
+git add readme.md
+git commit -m "step 3 master"
 log --oneline --graph --decorate=short --all
 
